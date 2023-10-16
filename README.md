@@ -7,6 +7,10 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
+<br/>
+<hr/>
+
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 
@@ -67,8 +71,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimaakterpapia&show_icons=true&locale=en&layout=compact" alt="taslimaakterpapia" /></p>
 
 <br/>
-<hr/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taslimaakterpapia&show_icons=true&locale=en" alt="taslimaakterpapia" /></p>
+
+<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimaakterpapia&" alt="taslimaakterpapia" /></p>
