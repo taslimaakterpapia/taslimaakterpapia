@@ -22,16 +22,7 @@
  
     
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/taslimapapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslimapapia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taslima-akter-papia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taslima-akter-papia" height="30" width="40" /></a>
-<a href="https://fb.com/taslimapapiasunfy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taslimapapiasunfy2" height="30" width="40" /></a>
-<a href="https://instagram.com/s.u.n.f.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.u.n.f.y" height="30" width="40" /></a>
-<a href="https://medium.com/@taslimaakterpapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taslimaakterpapia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@taslimapapiasunfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@taslimapapiasunfy" height="30" width="40" /></a>
-<a href="https://discord.gg/taslimaakterpapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taslimaakterpapia" height="30" width="40" /></a>
-</p>
+
 
 
 
@@ -49,6 +40,18 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/taslimapapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslimapapia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taslima-akter-papia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taslima-akter-papia" height="30" width="40" /></a>
+<a href="https://fb.com/taslimapapiasunfy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taslimapapiasunfy2" height="30" width="40" /></a>
+<a href="https://instagram.com/s.u.n.f.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.u.n.f.y" height="30" width="40" /></a>
+<a href="https://medium.com/@taslimaakterpapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taslimaakterpapia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@taslimapapiasunfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@taslimapapiasunfy" height="30" width="40" /></a>
+<a href="https://discord.gg/taslimaakterpapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taslimaakterpapia" height="30" width="40" /></a>
+</p>
 
 
 
