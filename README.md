@@ -9,7 +9,7 @@
 
 <br/>
 <hr/>
-
+<br/>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
@@ -31,6 +31,7 @@
 
 <br/>
 <hr/>
+<br/>
 
 
 
@@ -52,6 +53,7 @@
 
 <br/>
 <hr/>
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
