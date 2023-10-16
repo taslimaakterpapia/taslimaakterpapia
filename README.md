@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **taslimaakterpapia495@gmail.com**
 
-  - ⚡ Fun fact **"Navigating my code errors is like a cryptic puzzle; it starts with 'Why, why, why?' but ends with an 'Aha! That's why!' 🧩💻😅"**
+- ⚡ Fun fact **"Navigating my code errors is like a cryptic puzzle; it starts with 'Why, why, why?' but ends with an 'Aha! That's why!' 🧩💻😅"**
  
     
 
