@@ -15,7 +15,7 @@
 
   - ⚡ Fun fact **"Navigating my code errors is like a cryptic puzzle; it starts with 'Why, why, why?' but ends with an 'Aha! That's why!' 🧩💻😅"**
  
-  - 
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
