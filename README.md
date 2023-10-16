@@ -31,15 +31,12 @@
 <br/>
 <hr/>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql" /><br>
-</div>
+
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind, reactjs,bootstrap,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,mysql" /><br>
 </div>
 
 
