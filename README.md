@@ -106,3 +106,8 @@ Dhaka, Bangladesh  <br/>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimaakterpapia&" alt="taslimaakterpapia" /></p>
+
+<hr/>
+
+<p align="center">Thanks for going through my Portfolio. All rights reserved by Taslima Akter Papia @2022</p>
+
