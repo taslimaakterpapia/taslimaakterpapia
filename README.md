@@ -41,21 +41,22 @@
 
 - BSC In Zoology <br/>
 BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE <br/>
-Dhaka, Bangladesh
+Dhaka, Bangladesh  <br/>
+( 2016 - 2019 ) 
 
 <br/>
 
-<p>HSC in Science</p>
-<p>DONIA COLLEGE</p>
-<p>Dhaka, Bangladesh</p>
-
+HSC in Science  <br/>
+DONIA COLLEGE  <br/>
+Dhaka, Bangladesh <br/>
+2015
 
 <br/>
 
-<p>SSC in Science</p>
-<p>BARNAMALA ADARSHA HIGH SCHOOL & COLLEGE</p>
-<p>Dhaka, Bangladesh</p>
-
+SSC in Science  <br/>
+BARNAMALA ADARSHA HIGH SCHOOL & COLLEGE  <br/>
+Dhaka, Bangladesh  <br/>
+2013
 
 
 <hr/>
