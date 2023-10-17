@@ -36,6 +36,14 @@
 <hr/>
 
 
+<h3 align="left">👩‍🎓Education</h3>
+
+M.SS in Political Science
+Naogaon Govt. College, Naogaon
+Naogaon, Bangladesh.
+B.SS in Political Science
+Naogaon Govt. College, Naogaon
+Naogaon, Bangladesh.
 
 
 
