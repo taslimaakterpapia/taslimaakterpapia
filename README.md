@@ -42,6 +42,9 @@
 <p>BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE</p>
 <p>Dhaka, Bangladesh</p>
 
+- BSC In Zoology
+- BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE
+
 <br/>
 
 <p>HSC in Science</p>
