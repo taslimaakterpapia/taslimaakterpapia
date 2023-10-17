@@ -70,15 +70,15 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 
-<img align="left" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimaakterpapia&show_icons=true&locale=en&layout=compact" alt="taslimaakterpapia" /></p>
 
-<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taslimaakterpapia&show_icons=true&locale=en" alt="taslimaakterpapia" /></p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=taslimaakterpapia&show_icons=true&locale=en" alt="taslimaakterpapia" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimaakterpapia&" alt="taslimaakterpapia" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimaakterpapia&" alt="taslimaakterpapia" /></p>
