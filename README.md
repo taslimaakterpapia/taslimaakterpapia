@@ -71,15 +71,6 @@
 <hr/>
 
 
- 
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/taslimaakterpapia/taslimaakterpapia/raw/output/github-contribution-grid-snake.gif"
-  />
-
-
-<hr/>
-
 
 
 <h2 align="left">⚡ Stats ⚡</h2>
