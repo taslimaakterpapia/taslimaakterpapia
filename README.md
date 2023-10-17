@@ -71,20 +71,11 @@
 <hr/>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/taslimaakterpapia/taslimaakterpapia/raw/output/github-contribution-grid-snake.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/taslimaakterpapia/taslimaakterpapia/raw/output/github-contribution-grid-snake.gif"
-  />
+ 
   <img
     alt="github contribution grid snake animation"
     src="https://github.com/taslimaakterpapia/taslimaakterpapia/raw/output/github-contribution-grid-snake.gif"
   />
-</picture>
 
 
 <hr/>
