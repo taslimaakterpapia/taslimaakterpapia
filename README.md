@@ -5,12 +5,9 @@
 </h1>
 
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
-
-<br/>
-<hr/>
-
 <h3 align="center">A passionate frontend developer from Bangladesh </h3>
+
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
 
 <br/>
 <hr/>
