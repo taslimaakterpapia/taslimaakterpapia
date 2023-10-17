@@ -38,12 +38,10 @@
 
 <h3 align="left">👩‍🎓Education</h3>
 
-<p>BSC In Zoology</p>
-<p>BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE</p>
-<p>Dhaka, Bangladesh</p>
 
 - BSC In Zoology
-- BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE
+BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE
+Dhaka, Bangladesh
 
 <br/>
 
