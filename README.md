@@ -38,6 +38,8 @@
 
 <h3 align="left">👩‍🎓Education</h3>
 
+<p>BSC In Zoology</p>
+
 M.SS in Political Science
 Naogaon Govt. College, Naogaon
 Naogaon, Bangladesh.
@@ -47,7 +49,7 @@ Naogaon, Bangladesh.
 
 
 
-
+<hr/>
 
 
 
