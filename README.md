@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+👋,+I'm+Tasliam+Akter+Papia!;" />
 </h1>
 
-
 <h3 align="center">A passionate frontend developer from Bangladesh </h3>
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
+
+<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
 
 <br/>
 <hr/>
