@@ -46,14 +46,14 @@ Dhaka, Bangladesh  <br/>
 
 <br/>
 
-HSC in Science  <br/>
+- HSC in Science  <br/>
 DONIA COLLEGE  <br/>
 Dhaka, Bangladesh <br/>
 2015
 
 <br/>
 
-SSC in Science  <br/>
+- SSC in Science  <br/>
 BARNAMALA ADARSHA HIGH SCHOOL & COLLEGE  <br/>
 Dhaka, Bangladesh  <br/>
 2013
