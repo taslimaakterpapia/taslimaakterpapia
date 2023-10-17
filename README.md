@@ -35,6 +35,8 @@
 
 <hr/>
 
+<img align="right" alt="coding" width="250" src="https://64.media.tumblr.com/f8844db12bbe6ef5b132b493638387d2/tumblr_n67ouikOGj1qala6eo1_500.gifv">
+
 
 <h3 align="left">👩‍🎓Education</h3>
 
