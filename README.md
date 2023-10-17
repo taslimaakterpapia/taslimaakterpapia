@@ -39,13 +39,21 @@
 <h3 align="left">👩‍🎓Education</h3>
 
 <p>BSC In Zoology</p>
+<p>BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE</p>
+<p>Dhaka, Bangladesh</p>
 
-M.SS in Political Science
-Naogaon Govt. College, Naogaon
-Naogaon, Bangladesh.
-B.SS in Political Science
-Naogaon Govt. College, Naogaon
-Naogaon, Bangladesh.
+<br/>
+
+<p>HSC in Science</p>
+<p>DONIA COLLEGE</p>
+<p>Dhaka, Bangladesh</p>
+
+
+<br/>
+
+<p>SSC in Science</p>
+<p>BARNAMALA ADARSHA HIGH SCHOOL & COLLEGE</p>
+<p>Dhaka, Bangladesh</p>
 
 
 
